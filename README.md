@@ -1,7 +1,4 @@
 # VeraCloud _Tempo_ (free)
-A visual tool for wiring Micro-Services http://www.veracloud.com/tempo
-
-## About
 
 VeraCloud _Tempo_ (free) is the free limited edition of [VeraCloud _Tempo_](http://www.veracloud.com/tempo).
 

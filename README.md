@@ -2,7 +2,7 @@
 
 VeraCloud _Tempo_ (free) is the free limited edition of [VeraCloud _Tempo_](http://www.veracloud.com/tempo).
 
-VeraCloud _Tempo_ consists of JavaEE-based runtime deployed as a Web Application Resource (WAR) and the browser-based flow editor. The flow editor derives from [Node-RED](https://nodered.org), but, unlike Node-RED, all VeraCloud _Tempo_ nodes are implemented in Java.
+VeraCloud _Tempo_ consists of a JavaEE-based runtime deployed as a Web Application Resource (WAR), and a browser-based flow editor. The flow editor derives from [Node-RED](https://nodered.org), but, unlike Node-RED, the runtime and all VeraCloud _Tempo_ nodes are implemented in Java.
 
 ## Installation
 

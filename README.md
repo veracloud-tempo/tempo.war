@@ -12,4 +12,4 @@ Download the latest release of VeraCloud _Tempo_ WAR, rename it to `tempo.war`, 
 
 ## Getting started
 
- * [Getting Started](https://github.com/veracloud-tempo/tempo.war/wiki) - everything from first install to deploying flows.
+ * [Wiki](https://github.com/veracloud-tempo/tempo.war/wiki) - everything from first install to deploying flows.

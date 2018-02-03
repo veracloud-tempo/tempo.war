@@ -6,7 +6,7 @@ VeraCloud _Tempo_ consists of a [JavaEE-based](http://www.oracle.com/technetwork
 
 ## Installation
 
-Before you can install VeraCloud _Tempo_ (free) WAR you must have a working installation of a JavaEE container like [Apache Tomcat](https://tomcat.apache.org/download-90.cgi).
+Before you can install VeraCloud _Tempo_ (free) you must have a working installation of a JavaEE container like [Apache Tomcat](https://tomcat.apache.org/download-90.cgi).
 
 Download the latest release of VeraCloud _Tempo_ WAR, rename it to `tempo.war`, and copy it to `$CATALINA_BASE/webapps` folder. Start Tomcat and point a local browser at `http://localhost:8080/tempo`.
 

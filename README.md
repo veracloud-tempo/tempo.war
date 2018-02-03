@@ -11,9 +11,3 @@ Before you can install VeraCloud _Tempo_ free [Web Application Resource (WAR)](h
 Download the latest release of VeraCloud _Tempo_ WAR, rename it to `tempo.war`, and copy it to `$CATALINA_BASE/webapps` folder. Start Tomcat and point a local browser at `http://localhost:8080/tempo`.
 
 ![VeraCloud-Tempo](https://raw.githubusercontent.com/wiki/veracloud-tempo/tempo.war/screenshots/tempo1.png)
-
-## Get Started
-
- * Run locally
- * In the Cloud
- * On a device
